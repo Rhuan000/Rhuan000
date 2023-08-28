@@ -1,7 +1,7 @@
-# Hello World 👋
-Sou um estudante de Sistemas de Informação apaixonado por tecnologia e inovação.
+# Hello World!
+👨‍💻 Sou um estudante de Sistemas de Informação apaixonado por tecnologia e inovação.
 
-📚 "Há 7 meses, iniciei uma jornada de conhecimento em desenvolvimento de software. explorando o mundo do desenvolvimento web e da blockchain."
+📚 Há 7 meses, iniciei uma jornada de conhecimento em desenvolvimento de software. explorando o mundo do desenvolvimento web e da blockchain.
 
 <br>
 
