@@ -20,7 +20,7 @@
 
 ### JavaScript:
 - #### Jogo para Navegador: 
-  Desenvolvi um jogo para navegador semelhante ao Flapbird, porém com mais mecânicas, para praticar o puro html-css-javascript.
+  Desenvolvi um jogo para navegador semelhante ao Flapbird, porém com mais mecânicas para praticar o puro html-css-javascript.
 
 - #### Simulação da Netflix: 
   Atualmente, estou imerso no desenvolvimento de uma simulação da Netflix e as principais funções (sem os filmes).
