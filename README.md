@@ -7,7 +7,7 @@
 
 ## Projetos 💼
 ### Python:
-- #### [Compra e Venda de Criptomoedas:](https://github.com/Rhuan000/PANCAKEBOT){:target="_blank"}
+- #### [Compra e Venda de Criptomoedas:](https://github.com/Rhuan000/PANCAKEBOT)
   Desenvolvi um sistema com interface gráfica que permite a compra e venda de criptomoedas. O projeto oferece a flexibilidade de usar várias carteiras em   transações separadas por milésimos de segundos.
 
 
@@ -19,10 +19,10 @@
   Após o sistema em python, mergulhei no mundo da Solidity e criei um Contrato Inteligente. Este contrato permite a compra ou venda dinâmica através de     várias carteiras em uma única transação. Além disso, integrei um recurso que permite aos usuários definirem um limite máximo de taxa da moeda,            proporcionando um maior controle nas transações. 
 
 ### JavaScript:
-- #### [Jogo para Navegador:](https://github.com/Rhuan000/The-Bird){:target="_blank"}
+- #### [Jogo para Navegador:](https://github.com/Rhuan000/The-Bird)
   Desenvolvi um jogo para navegador semelhante ao Flapbird, porém com mais mecânicas para praticar o puro html-css-javascript.
 
-- #### [Simulação da Netflix:](https://github.com/Rhuan000/Netflix-Clone){:target="_blank"} 
+- #### [Simulação da Netflix:](https://github.com/Rhuan000/Netflix-Clone)
   Atualmente, estou imerso no desenvolvimento de uma simulação da Netflix e as principais funções (sem os filmes).
 
 <br>
